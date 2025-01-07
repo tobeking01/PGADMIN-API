@@ -18,6 +18,7 @@ exports.getMessages = async (req, res) => {
 
 
 
+
 // Send a message
 exports.sendMessage = async (req, res) => {
   // Validate input
